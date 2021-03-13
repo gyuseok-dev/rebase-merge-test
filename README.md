@@ -1,2 +1,2 @@
 # rebase-merge-test
-rebase merge test
+# comflict message
